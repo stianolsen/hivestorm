@@ -1,13 +1,13 @@
 # Hivestorm Privacy Policy
 
-*Last updated: 10 October 2026*
+*Last updated: 14 October 2026*
 
 Hivestorm is an arcade shooter for iPhone, made by one person: Stian Andre Olsen. This policy explains what data the game handles and why.
 
 **The short version**
 
 - You can play without giving any personal information. There's no sign-up, no email address and no real name.
-- The game has no ads, no analytics, no tracking and no crash reporting. Nothing is sold or shared for advertising.
+- The game has no ads, no tracking and no crash reporting, and adds no analytics of its own (section 5 covers what Unity does). Nothing is sold or shared for advertising.
 - Online co-op and the online high scores use Unity Gaming Services with an anonymous, random player ID.
 - The online high scores are opt-in. Nothing is posted until you choose a nickname. After that, the game stores your nickname, your best scores and the stage each one reached, and nothing else.
 - **DELETE MY ONLINE DATA** in the game removes all of it, at any time.
@@ -59,6 +59,8 @@ The online features run on Unity Gaming Services, from Unity Technologies. Unity
 
 Like any server on the internet, Unity's servers see your device's IP address when the game connects. Unity may use it to work out an approximate location, such as your country or region. For co-op, the game also measures how quickly it can reach Unity's server regions, so it can use the nearest one. Unity lists this as "coarse location" in its privacy disclosures, so it also appears on the game's App Store privacy label. Hivestorm itself never asks for your location and has no access to Location Services. I don't receive or store IP addresses.
 
+Unity's privacy disclosures also say that its Leaderboards service uses the anonymous player ID for analytics, such as statistics about how the high-score lists are used. It isn't used for advertising or for tracking you across other apps. Because Unity declares it, "analytics" also appears next to the player ID on the game's App Store privacy label.
+
 All connections to Unity's services are encrypted, including the co-op game data. Unity is based in the United States and may process data outside the EU/EEA. Unity's data processing terms protect these transfers with the safeguards the GDPR requires, such as the EU Standard Contractual Clauses.
 
 Unity's own privacy policy: <https://unity.com/legal/privacy-policy>
@@ -66,7 +68,7 @@ Unity's own privacy policy: <https://unity.com/legal/privacy-policy>
 ## 6. What Hivestorm doesn't do
 
 - No ads, no advertising identifier (IDFA), and no tracking across other companies' apps or websites
-- No analytics, crash reporting or performance reporting. Unity Analytics, Cloud Diagnostics and similar services are switched off.
+- No analytics, crash reporting or performance reporting added by the game. Unity Analytics, Cloud Diagnostics and similar services are switched off. (For the analytics Unity's Leaderboards service declares, see section 5.)
 - No access to your camera, microphone, photos, contacts or location
 - No email or password accounts, no social logins
 - No in-app purchases
